@@ -26,5 +26,5 @@ You can find me and my work across different platforms:
 
 - 🌍 [Personal Website](https://ivantim.dev) — projects, writing, and more about me  
 - 💼 [LinkedIn](https://www.linkedin.com/in/ivan-t/) — professional background and experience  
-- ✍️ [Medium](https://medium.com/@your-handle) — articles, thoughts, and technical deep dives  
-- 🐦 [Twitter](https://twitter.com/your-handle) — occasional updates, ideas, and experiments 
+- ✍️ [Medium](https://medium.com/@johnniet19) — articles, thoughts, and technical deep dives  
+- 🐦 [X](https://x.com/JTaurus19) — occasional updates, ideas, and experiments 
