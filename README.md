@@ -20,7 +20,7 @@ I’ve worked across **startups 🚀, growing products, and larger platforms**, 
 ☕ Coffee usually helps  
 ✍️ Writing & sharing ideas on Medium  
 
-## Connect with me
+### Connect with me
 
 You can find me and my work across different platforms:
 
