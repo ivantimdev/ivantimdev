@@ -1,6 +1,6 @@
 # Ivan Tim
 
-👨‍💻 Backend engineer with 13+ years of experience working on systems that need to scale and stay reliable.  
+👨‍💻 Backend engineer experience working on systems that need to scale and stay reliable.  
 I spend most of my time with **Java & Kotlin (Spring Boot, Spring Cloud)**, but I also write in **Python, Go, and Rust** when the project (or curiosity) calls for it.  
 
 I’ve worked across **startups 🚀, growing products, and larger platforms**, usually on things like:
