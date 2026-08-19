@@ -4,7 +4,7 @@
 
 I'm a software engineer focused on backend and distributed systems. Most of my production work is in **Java and Kotlin**; I also use **Python, Go, and TypeScript** when they’re a better fit.
 
-I like the whole path from architecture to code to production—especially when the product has real users, real traffic, and real constraints. Startups are my favorite environment, but I'm curious about technology in all forms.
+I like the whole path from architecture to code to production - especially when the product has real users, real traffic, and real constraints. Startups are my favorite environment, but I'm curious about technology in all forms.
 
 ## What I build
 
