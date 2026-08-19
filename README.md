@@ -1,30 +1,23 @@
 # Ivan Tim
 
-👨‍💻 Backend engineer experience working on systems that need to scale and stay reliable.  
-I spend most of my time with **Java & Kotlin (Spring Boot, Spring Cloud)**, but I also write in **Python, Go, and Rust** when the project (or curiosity) calls for it.  
+**Building stuff that has to work.**
 
-I’ve worked across **startups 🚀, growing products, and larger platforms**, usually on things like:
-- Distributed microservices and real-time systems  
-- Data pipelines, search, and storage (PostgreSQL, Redis, Elasticsearch, ClickHouse)  
-- Cloud-native deployments (AWS, Kubernetes, Docker, CI/CD)  
-- Web3 backends, NFT trading/renting, and blockchain integrations  
-- Side projects that scratch an itch — like [ClickTheRoad](https://clicktheroad.com/), a travel app I designed, built (backend + iOS), and launched  
+I'm a software engineer focused on backend and distributed systems. Most of my production work is in **Java and Kotlin**; I also use **Python, Go, and TypeScript** when they’re a better fit.
 
-💡 What keeps me interested is **building systems that actually hold up** — fast, stable, and maintainable — while experimenting with new tech like **AI/ML and Rust/Go**.  
+I like the whole path from architecture to code to production—especially when the product has real users, real traffic, and real constraints. Startups are my favorite environment, but I'm curious about technology in all forms.
 
----
+## What I build
 
-### 🌍 A bit about me  
-📍 Living in **Costa Blanca, Spain**  
-🌐 Working **remote-first** for years  
-☕ Coffee usually helps  
-✍️ Writing & sharing ideas on Medium  
+- Distributed systems, microservices, and real-time backends
+- Data pipelines, search, and storage — PostgreSQL, Redis, Elasticsearch, ClickHouse
+- Cloud infrastructure and delivery — AWS, Kubernetes, Docker, CI/CD
+- AI/LLM features and developer tools that solve a real problem
+- Side projects and open-source experiments
 
-### Connect with me
+Working remotely from **Alicante, Spain**. Current rabbit holes: **fintech, AI, developer tools, and startups**.
 
-You can find me and my work across different platforms:
+## Elsewhere
 
-- 🌍 [Personal Website](https://ivantim.dev) — projects, writing, and more about me  
-- 💼 [LinkedIn](https://www.linkedin.com/in/ivan-t/) — professional background and experience  
-- ✍️ [Medium](https://medium.com/@johnniet19) — articles, thoughts, and technical deep dives  
-- 🐦 [X](https://x.com/JTaurus19) — occasional updates, ideas, and experiments 
+- [ivantim.dev](https://ivantim.dev) — projects and writing
+- [X](https://x.com/ivantimdev) — builds, experiments, and tech rabbit holes
+- [LinkedIn](https://www.linkedin.com/in/ivan-t/) — experience and work history
