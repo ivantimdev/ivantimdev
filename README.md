@@ -20,4 +20,4 @@ Working remotely from **Alicante, Spain**. Current rabbit holes: **fintech, AI, 
 
 - [ivantim.dev](https://ivantim.dev) — projects and writing
 - [X](https://x.com/ivantimdev) — builds, experiments, and tech rabbit holes
-- [LinkedIn](https://www.linkedin.com/in/ivan-t/) — experience and work history
+- [LinkedIn](https://www.linkedin.com/in/ivantimdev/) — experience and work history
